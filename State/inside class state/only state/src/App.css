@@ -1,0 +1,41 @@
+/*Navbar CSS Styles*/
+
+.navbar
+{
+  background-color:blueviolet;
+  padding:10px;
+}
+.navbar a
+{
+  color:white;
+  text-decoration:none;
+  font-size:30px;
+  font-weight:bold;
+}
+
+.landing
+{
+	background:white url("assets/img/bg-img.jpg") no-repeat scroll center;
+	background-size:cover;
+	height:100vh;
+	color:black;
+	text-shadow:0 0 10px white;
+}
+.wrapper
+{
+	background-color:rgba(255,255,255,0.3);
+	height:100%;
+}
+.wrapper h3
+{
+	font-size:50px;
+}
+.wrapper p
+{
+	font-size:20px;
+}
+.custom
+{
+	height:130px;
+	width:100%;
+}
